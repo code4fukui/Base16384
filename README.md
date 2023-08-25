@@ -27,3 +27,10 @@ crypto.getRandomValues(key);
 const encoded = Base16384.encode(key);
 console.log(encoded); // 橍氧纛汒癘厹徿壁尸讌寛奭懺淈苳傷叮瀙樀
 ```
+
+## reference
+
+- [fumiama/base16384: Encode binary files to printable utf16be.](https://github.com/fumiama/base16384)
+- [Base64ならぬ、Base16384 - Qiita](https://qiita.com/n4o847/items/3510c08ab473f5c1c46d)
+- [base16384 — Homebrew Formulae](https://formulae.brew.sh/formula/base16384)
+- [base16384 - Rust](https://docs.rs/base16384/latest/base16384/)
