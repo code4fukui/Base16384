@@ -24,8 +24,8 @@ console.log(decoded);
 
 const key = new Uint8Array(32); // 32byte -> 19chars
 crypto.getRandomValues(key);
-const encoded = Base16384.encode(key);
-console.log(encoded); // 橍氧纛汒癘厹徿壁尸讌寛奭懺淈苳傷叮瀙樀
+const encoded2 = Base16384.encode(key);
+console.log(encoded2); // 橍氧纛汒癘厹徿壁尸讌寛奭懺淈苳傷叮瀙樀
 ```
 
 ## reference
