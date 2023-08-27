@@ -5,10 +5,10 @@
 
 One of the primary purposes is to have aesthetically pleasing SHA1 hashes. Compare:
 
- - Hex:    `17O57684bea1f9331418b633a8f373119d765fd4`
- - B64:    `xE_ptB5SeclHm8JEsD0-ST1mTBM`
+ - Hex:    `17057684bea1f9331418b633a8f373119d765fd4`
+ - B64:    `FwV2hL6h+TMUGLYzqPNzEZ12X9Q=`
  - B32:    `RJ56_U1WM_LTT5_3TQH_K4P0_YJ4L_UTKD_3ZZZ_ZW`
- - B16384: `叕蒄綨涓婐暶嫪崷婆歶旴`
+ - B16384: `叁敨惺濹嫅例曎盳櫄柗板戀`
 
 ## Getting started
 

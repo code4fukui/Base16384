@@ -34,9 +34,9 @@ Deno.test("uuid2", () => {
   t.assertEquals(b, b2);
 });
 Deno.test("sha128", () => {
-  const sha = Base16.decode("17O57684bea1f9331418b633a8f373119d765fd4");
+  const sha = Base16.decode("17057684bea1f9331418b633a8f373119d765fd4");
   const s = Base16384.encode(sha);
-  t.assertEquals(s, "叕蒄綨涓婐暶嫪崷婆歶旴");
-  const sha2 = Base16384.decode(s);
+  t.assertEquals(s, "叁敨惺濹嫅例曎盳櫄柗板戀");
+  const sha2 = Base16384.decode(s, 20);
   t.assertEquals(sha, sha2);
 });
