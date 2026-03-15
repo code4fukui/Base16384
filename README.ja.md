@@ -1,15 +1,15 @@
 # Base16384
 
-Base 16384 is a 14-bit encoding with Kanji characters used for aesthetically pleasing SHA1 hashes in JavaScript.
+Base16384は、視覚的に魅力的なSHA1ハッシュを作成するための14ビットの文字エンコーディングです。JavaScriptで使用できます。
 
-## Features
-- Encodes binary data to a Base16384 string representation
-- Decodes Base16384 strings back to binary data
-- Can be used to create more visually appealing hashes compared to traditional hex or base64 encoding
+## 機能
+- バイナリデータをBase16384文字列に変換
+- Base16384文字列をバイナリデータに変換
+- 従来のhexやbase64エンコーディングよりも視覚的により魅力的なハッシュを作成できる
 
-## Usage
+## 使い方
 
-In your code:
+コードの中で:
 
 ```javascript
 import { Base16384 } from "https://code4fukui.github.io/Base16384/Base16384.js";
@@ -25,5 +25,5 @@ const encoded2 = Base16384.encode(key);
 console.log(encoded2); // 橍氧纛汒癘厹徿壁尸讌寛奭懺淈苳傷叮瀙樀
 ```
 
-## License
+## ライセンス
 MIT
