@@ -8,9 +8,6 @@ Base16384は、視覚的に魅力的なSHA1ハッシュを作成するための1
 - 従来のhexやbase64エンコーディングよりも視覚的により魅力的なハッシュを作成できる
 
 ## 使い方
-
-コードの中で:
-
 ```javascript
 import { Base16384 } from "https://code4fukui.github.io/Base16384/Base16384.js";
 
