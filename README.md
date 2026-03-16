@@ -28,4 +28,4 @@ console.log(encoded2); // 橍氧纛汒癘厹徿壁尸讌寛奭懺淈苳傷叮瀙
 ```
 
 ## License
-MIT
+MIT License — see [LICENSE](LICENSE).
